@@ -17,5 +17,7 @@ Como observación extra, cabe destacar que tuve un bloqueo debido a que, en Inte
 
 ## Alumno
 **Nombre:** Facundo Maya
+
 **Curso:** 3K10
+
 **Legajo:** 48997
